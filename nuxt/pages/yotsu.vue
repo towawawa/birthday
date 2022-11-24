@@ -57,7 +57,7 @@ export default {
     return {
       birthday: {
         month: {
-          1: 1,
+          1: 0,
           2: 2,
         },
         date: {
